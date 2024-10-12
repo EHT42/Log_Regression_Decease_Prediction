@@ -1,0 +1,11 @@
+Name,Age,BMI,BloodPressure,Cholesterol,Disease
+Patient1,45,23.4,120,200,0
+Patient2,56,27.5,135,220,1
+Patient3,34,22.1,110,180,0
+Patient4,65,30.2,140,240,1
+Patient5,29,19.8,115,190,0
+Patient6,48,26.7,130,210,1
+Patient7,73,31.4,145,250,1
+Patient8,52,28.5,138,230,1
+Patient9,33,21.3,125,190,0
+Patient10,41,25.0,128,205,1
